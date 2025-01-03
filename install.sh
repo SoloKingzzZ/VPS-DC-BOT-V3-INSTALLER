@@ -4,7 +4,7 @@ clear
 
 echo "ᴍᴀᴋᴇᴅ ʙʏ - 𝖘𝖔𝖑𝖔𝖟𝖎𝖕"
 
-echo Create Your Own Free VPS Hosting!
+echo Create Your Own Free VPS BOT!
 
 read -p "Are you sure you want to continue? Agree to create or not? (y/n): " -n 1 -r
 echo
