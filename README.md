@@ -6,7 +6,7 @@ Then Go to gitpod or else github and make a codespace
 and add this command
 Install Free VPS Bot:
 ```
-wget https://raw.githubusercontent.com/Solokingz/vpsbotmakedbyme-installer/refs/heads/main/install.sh && bash install.sh
+wget https://raw.githubusercontent.com/SoloKingzzZ/VPS-DC-BOT-V3-INSTALLER/refs/heads/main/install.sh && bash install.sh
 ```
 After click y
 Then paste your bot token
